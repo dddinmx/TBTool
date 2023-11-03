@@ -1,5 +1,5 @@
 # TBTool
-查询IP信息和分析文件工具，接入微步API 
+查询IP信息和恶意文件分析工具，接入微步API
 使用前替换为自己的Key
 ![image](https://github.com/dddinmx/TBTool/assets/19663680/d7423c63-f501-46ec-bc30-1e8eb8c0a78e)
 
