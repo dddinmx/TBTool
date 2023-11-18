@@ -1,15 +1,22 @@
 # TBTool
 查询IP信息和恶意文件分析工具，接入微步API
 
-使用前替换为自己的Key，微步在线调用API需同时绑定客户端IP
+第一次启动会生成config文件，使用前替换自己的微步API Key
 
-![image](https://github.com/dddinmx/TBTool/assets/19663680/d7423c63-f501-46ec-bc30-1e8eb8c0a78e)
+![image](https://github.com/dddinmx/TBTool/assets/19663680/b056392b-62ad-4c2b-95c0-e0b8ddbc4bbf)
 
 IP查询
 
-![image](https://github.com/dddinmx/TBTool/assets/19663680/6bcc982a-e306-4cc8-af8e-7ffda60fd078)
+![image](https://github.com/dddinmx/TBTool/assets/19663680/1fe0dae8-69dd-4323-9253-8cae72c6ff88)
+
 
 文件分析
 
-![image](https://github.com/dddinmx/TBTool/assets/19663680/99e8d3f4-4b25-415a-951d-7f600f5e4f85)
+![image](https://github.com/dddinmx/TBTool/assets/19663680/68470f31-b0d3-4a94-8308-305454f9450d)
+
+Hash查询
+
+![image](https://github.com/dddinmx/TBTool/assets/19663680/d9745912-c0ea-4147-be93-3f506c0bc5a3)
+
+
 
